@@ -1,6 +1,7 @@
 # D365-Case-Data-Simulator
 A robust case data simulator for D365 Customer Service. This collection of Power Platform Assets and documentation that will allow you to automate case data being populated in your D365 Customer Service environment so some of your Case related dashboards light up. 
 
+Complete installation and administration documentation can be found here: [https://thankful-cliff-0c21f451e.2.azurestaticapps.net/](https://thankful-cliff-0c21f451e.2.azurestaticapps.net/)
 
 - CaseDataSimulatorSolutionCore
 - Is comprised of 2 Power Automate Cloud Flows and a Microsoft Dataverse Connection Reference
