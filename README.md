@@ -3,6 +3,8 @@ A robust case data simulator for D365 Customer Service. This collection of Power
 
 Complete installation and administration documentation can be found here: [https://thankful-cliff-0c21f451e.2.azurestaticapps.net/](https://thankful-cliff-0c21f451e.2.azurestaticapps.net/)
 
+Case Data Simulator - Core
+
 - CaseDataSimulatorSolutionCore
 - Is comprised of 2 Power Automate Cloud Flows and a Microsoft Dataverse Connection Reference
 - These Cloud Flows will run at regularly scheduled intervals and create Cases with randomized data assigned to random users, then resolve the cases at somewhat random intervals
@@ -10,9 +12,7 @@ Complete installation and administration documentation can be found here: [https
     a. Case Data Simulator - Create New Cases Each Business Hour
     b. Case Data Simulator - Resolve Cases
 
-Case Data Simulator - Optional
-
-- Please note, this solution is optional. The purpose of it is to automate taking Surveys post case closure.
+Case Data Simulator - Optional - The purpose of it is to automate taking Surveys post case closure.
 
 - CaseDataSimulatorSolutionOptional
 - Its comprised of 1 Power Automate Cloud Flow, 3 Desktop Automations and 1 Connection Reference
